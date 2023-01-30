@@ -1,1 +1,1 @@
-Dışardan iki sayı alarak istenen işlemleri yapar.
+Dışardan iki sayı alarak istenen matematiksel  işlemleri yapar.
